@@ -37,3 +37,28 @@
 11:37:23.760 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:34)oggger - *** Test Execution completes here***
 12:47:13.429 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
 12:47:15.500 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+19:53:39.396 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+19:53:41.846 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+19:54:16.738 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+19:54:18.804 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+20:00:36.901 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+20:00:39.829 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+20:03:09.810 [TestNG-tests-1] INFO  testCases.TC001_LoginTest.Login(TC001_LoginTest.java:15)oggger - **** My test execution starts here ****
+20:03:19.877 [TestNG-tests-1] ERROR testCases.TC001_LoginTest.Login(TC001_LoginTest.java:28)oggger - Test Failed
+20:03:19.877 [TestNG-tests-1] DEBUG testCases.TC001_LoginTest.Login(TC001_LoginTest.java:29)oggger - Debug logs
+20:04:56.823 [TestNG-tests-1] INFO  testCases.TC001_LoginTest.Login(TC001_LoginTest.java:15)oggger - **** My test execution starts here ****
+20:05:06.941 [TestNG-tests-1] ERROR testCases.TC001_LoginTest.Login(TC001_LoginTest.java:28)oggger - Test Failed
+20:05:06.942 [TestNG-tests-1] DEBUG testCases.TC001_LoginTest.Login(TC001_LoginTest.java:29)oggger - Debug logs
+20:09:26.696 [TestNG-tests-1] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+20:09:28.904 [TestNG-tests-1] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+20:12:54.163 [TestNG-tests-1] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+20:12:56.577 [TestNG-tests-1] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+12:39:38.273 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+12:41:47.277 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+12:42:52.294 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+12:44:14.265 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+12:44:16.982 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+12:45:58.593 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+12:46:01.819 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
+13:47:34.618 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:15)oggger - *** Test Execution Starts here***
+13:47:38.156 [main] INFO  testCases.TC002_LoginHomeTest.Login(TC002_LoginHomeTest.java:38)oggger - *** Test Execution completes here***
